@@ -28,3 +28,14 @@ nav a {
     text-decoration: none;
 
 }
+
+nav a: :hover {
+    color: #c78c19;
+    text-decoration: underline;
+}
+
+.produtos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px;
+}
